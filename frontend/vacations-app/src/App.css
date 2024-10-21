@@ -1,0 +1,13 @@
+nav ul {
+  list-style: none;
+  padding: 0;
+}
+
+nav ul li {
+  display: inline;
+  margin-right: 10px;
+}
+
+form div {
+  margin-bottom: 10px;
+}

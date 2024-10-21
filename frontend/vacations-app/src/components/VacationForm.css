@@ -1,0 +1,33 @@
+.form-container {
+    background-color: #f9f9f9;
+    border-radius: 8px;
+    padding: 20px;
+    box-shadow: 0 4px 10px rgba(0, 0, 0, 0.1);
+  }
+  
+  .form-title {
+    text-align: center;
+    margin-bottom: 20px;
+  }
+  
+  .date-picker-field {
+    margin: 0 5px; /* Add some space between date pickers */
+  }
+  
+  .vacation-days-input {
+    max-width: 200px; /* Limit the width of the input */
+  }
+  
+  .comment-input {
+    margin-top: 10px;
+  }
+  
+  .error-message {
+    font-weight: bold;
+  }
+  
+  .button-group {
+    justify-content: flex-start; /* Align buttons to the left */
+    margin-top: 20px;
+  }
+  
